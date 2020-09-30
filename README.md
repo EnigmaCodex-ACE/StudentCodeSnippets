@@ -1,2 +1,7 @@
 # StudentCodeSnippets
-Collection of random code snippets developed by students
+
+Collection of code snippets of useful functions and other misc gists
+
+> Currently has 2 Contributers
+
+
