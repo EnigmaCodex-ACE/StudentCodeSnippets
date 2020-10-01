@@ -18,3 +18,10 @@ Structure
     \---OBspotify
 ```
 
+
+
+
+
+### Additional Software
+
+link to [OBS Spotify](https://obsproject.com/forum/resources/obscurrentsong-spotify.658/) which is used in WhatsappRichPresence
