@@ -1,11 +1,10 @@
 # StudentCodeSnippets
 
-Collection of code snippets of useful functions and other misc gists
-
-> Currently has 3 Contributers
+This repo is made for Hacktoberfest 2021 now
+collaborator are welcome
 
 ```
-Structure
+theenigmacodex/StudentCodeSnippets Tree
 │   LICENSE
 │   MatrixBasedFibbonachi.py
 │   README.md
